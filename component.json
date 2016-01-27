@@ -6,9 +6,9 @@
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
-        "is-equal": "^1.3.0",
+        "is-equal": "^1.4.0",
         "is-regex": "^1.0.3",
         "object-inspect": "^1.0.2"
     },
-    "version": "1.13.2"
+    "version": "1.13.3"
 }
